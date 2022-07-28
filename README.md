@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I’m __Oskar__ - experienced programmer, technology enthusiast and conference speaker. Despite I’m young, my portfolio is full of interesting products and challenges - I’m known of oftenly bringing new, fresh perspective and energy to the team.
+Hello, I’m __Oskar__ - experienced programmer, technology enthusiast and conference speaker. Despite my young age, my portfolio is full of interesting products and challenges - I’m known for bringing often a new, fresh perspective and energy to the team.
 
 I’m not afraid of new challenges and continuous development - it’s just the daily part of our job, isn’t it? I get used to build up products using lean startup method and in data-driven environment - however I’m open to meet new standards and approaches.
 
