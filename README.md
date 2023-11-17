@@ -10,5 +10,5 @@ On the private site, I’m a huge aviation enthusiast, I’m taking the course f
 Catch me:
 
 - Warsaw, Poland - on site
-- Hongkong, China - October 1st - 6th
-- Tokyo, Japan - October 6th - 11th
+- Wrocław, Poland - November 23-24th and December 1-2nd
+- Brussels, Belgium - SymfonyCon December 5-8th
