@@ -17,9 +17,7 @@ On the private site, I’m a huge aviation enthusiast, flying often on the VATSI
 Catch me:
 
 - Warsaw, Poland - on site
-- Harlingen, Netherlands - December 29th to January 6th
-- Barcelona, Spain - January 25th to 29th
-- Dubai, United Arab Emirated - February 10th to 16th
+- Remotely - everytime, just hit me up!
 
 Also, I'm always eager for networking meetups! I can be met at:
 - [Venture Cafe](https://venturecafewarsaw.org) organized by [CIC](https://cic.com/about/) (each Thursday)
