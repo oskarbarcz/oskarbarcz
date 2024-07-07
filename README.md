@@ -17,10 +17,4 @@ On the private site, I’m a huge aviation enthusiast, flying often on the VATSI
 Catch me:
 
 - Warsaw, Poland - on site
-- Remotely - everytime, just hit me up!
-
-Also, I'm always eager for networking meetups! I can be met at:
-- [Venture Cafe](https://venturecafewarsaw.org) organized by [CIC](https://cic.com/about/) (each Thursday)
-- [Networking and Drinks](https://www.meetup.com/pl-PL/defiwarsaw/) organized by [Warsaw International](https://www.meetup.com/pl-PL/defiwarsaw) (each Friday)
-
-Feel free to contact me on LinkedIn prior to these events to catch up!
+- Remotely - everytime, just hit me up via email or LinkedIn!
