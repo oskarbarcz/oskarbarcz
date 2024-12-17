@@ -7,7 +7,7 @@ I am **founder** and proud **CTO** of **[AT Cloud](https://www.atcloud.pro)** so
 
 On every day I'm **Senior Software Engineering Consultant** in **[Digital New Agency](https://dnatechnology.io/)**, we're providing specialized consulting regarding fin-tech product development, maintenance services and internal product support.
 
-After hours I'm proud volounteer at non-government organization **[Fundacja Generacja Innowacja](https://gi.org.pl)**. In my role of **Technical Leader** I am responsible for coordinating volounteer-based dev teams with our social goals. I organize internship programs, manage backlog and development flow within the organization.
+After hours I'm proud volounteer and board member at non-government organization **[Fundacja Generacja Innowacja](https://gi.org.pl)**. In my role of **Technical Leader** I am responsible for coordinating volounteer-based dev teams with our social goals. I organize internship programs, manage backlog and development flow within the organization.
 My previous workplaces and other experience can be reviewed at my **[LinkedIn](https://www.linkedin.com/in/oskarbarcz/)** profile.
 
 My portfolio is full of fascinating products and challenges - I’m known for bringing a new, fresh perspective and energy to the team and I deliver high-quality solutions fitting business needs.
