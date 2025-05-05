@@ -21,4 +21,3 @@ I'm open for the networking! Catch me:
 
 - Warsaw, Poland - on site
 - Remotely - anytime, just hit me up via **[LinkedIn](https://www.linkedin.com/in/oskarbarcz/)**!
-- I will be a speaker at **[PHPCon Poland 2024](https://2024.phpcon.pl/pl/)** October 25-26th, I'll tell you how to take-over and hand-over a tech product and not go bananas in the process!
